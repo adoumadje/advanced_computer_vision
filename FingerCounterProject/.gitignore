@@ -1,0 +1,4 @@
+# files and folders to ignore
+__pycache__
+.idea
+FingerImages
